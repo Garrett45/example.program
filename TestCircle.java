@@ -9,7 +9,7 @@ public class TestCircle {
         System.out.println(c3);
 
         c1.setRadius(2.2);
-        c1.setColor("green");
+        c1.setColor("yellow");
         System.out.println(c1);
         System.out.println("The radius is: " + c1.getRadius());
         System.out.println("The color is: " + c1.getColor());
